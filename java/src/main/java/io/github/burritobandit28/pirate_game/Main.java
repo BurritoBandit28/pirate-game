@@ -7,6 +7,7 @@ import org.slf4j.LoggerFactory;
 import java.util.ArrayList;
 import java.util.Random;
 
+
 public class Main {
 
     public static final Logger LOGGER = LoggerFactory.getLogger("Server");
